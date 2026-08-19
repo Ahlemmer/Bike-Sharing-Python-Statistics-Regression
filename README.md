@@ -65,12 +65,10 @@ pip install pandas numpy scipy statsmodels
 
 ## 🚀 How to Run
 
-1. Clone this repository or download the main `.py` script.
-2. Run the script via your terminal or IDE:
-```bash
-python yulu_analysis_pipeline.py
+1. Clone this repository or download the Jupyter Notebook (`.ipynb`).
+2. Open the notebook in **Jupyter Notebook** or **JupyterLab**.
+3. Run the cells from top to bottom to execute the analysis.
 
-```
 
 
 3. The script will output console reports in sequence: Data Diagnostics -> Cleaning Shape Changes -> Hypothesis Test Results -> OLS Regression Summary.
